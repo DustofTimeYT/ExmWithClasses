@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Tprogramming_2021 — копия\\CourseApp\\CourseApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ExmWithClasses\\CourseApp\\CourseApp.csproj",
       "projectName": "CourseApp",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Tprogramming_2021 — копия\\CourseApp\\CourseApp.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ExmWithClasses\\CourseApp\\CourseApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Tprogramming_2021 — копия\\CourseApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\ExmWithClasses\\CourseApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

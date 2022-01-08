@@ -4,13 +4,29 @@
 
     public class BabushkaPhone : CellPhone, IProduct
     {
+        private double price;
+
         public string Name { get; set; }
 
-        public double Price { get; set; }
+        public double Price
+        {
+            get
+            {
+                return price;
+            }
+
+            set
+            {
+                if (value > 0)
+                {
+                    price = value;
+                }
+            }
+        }
 
         public void Present()
         {
-            Console.WriteLine($"Name: {Name} Price: {Price}$");
+            Console.WriteLine($@"Name: {(string.IsNullOrEmpty(Name) ? "none" : Name)} Price: {Price}$");
         }
     }
 }

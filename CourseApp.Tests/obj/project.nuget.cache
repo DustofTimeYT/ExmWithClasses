@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BRAFvdJrGu+6s3Ex7d426OSZ4nwqtWn3keAMQvGcdXjbZd39L1fbM8Jfrgi9IByvfmOHIZo06HdCD37Xu7QP2g==",
+  "dgSpecHash": "reC7EeXORyWldU/tj5dpdZ/rFezkSvR0asBRd3obc4GXKmBer/wUcMs+ysvygHWs1udPLDWV4cuxjABgrWONjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\Tprogramming_2021 — копия\\CourseApp.Tests\\CourseApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ExmWithClasses\\CourseApp.Tests\\CourseApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

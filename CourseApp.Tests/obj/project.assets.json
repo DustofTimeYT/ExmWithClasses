@@ -5950,11 +5950,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Tprogramming_2021 — копия\\CourseApp.Tests\\CourseApp.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ExmWithClasses\\CourseApp.Tests\\CourseApp.Tests.csproj",
       "projectName": "CourseApp.Tests",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Tprogramming_2021 — копия\\CourseApp.Tests\\CourseApp.Tests.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ExmWithClasses\\CourseApp.Tests\\CourseApp.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Tprogramming_2021 — копия\\CourseApp.Tests\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\ExmWithClasses\\CourseApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5971,8 +5971,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Tprogramming_2021 — копия\\CourseApp\\CourseApp.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Tprogramming_2021 — копия\\CourseApp\\CourseApp.csproj"
+            "C:\\Users\\User\\source\\repos\\ExmWithClasses\\CourseApp\\CourseApp.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\ExmWithClasses\\CourseApp\\CourseApp.csproj"
             }
           }
         }
