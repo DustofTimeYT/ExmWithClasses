@@ -26,7 +26,7 @@
 
         public void Present()
         {
-            Console.WriteLine($"Name: {Name} Price: {Price}$");
+            Console.WriteLine($@"Name: {(string.IsNullOrEmpty(Name) ? "none" : Name)} Price: {Price}$");
         }
     }
 }
